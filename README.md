@@ -1,4 +1,4 @@
-# Basic-Augmented-reality-course-opencv
+# Opencv-realidad-aumentada
 
 <details>
 <summary>Installation Section</summary>
